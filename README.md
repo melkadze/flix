@@ -20,11 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="http://imgur.com/a/uNZFXJZ" width=250><br>
+<img src="http://i.imgur.com/NSDNIsxh.gif" width=250><br>
 
 ### Notes
 The main challange I encountered with building this app involved the fact that I renamed some of the elements after I made connection with them by control-dragging. I was able to identify them however, and simply recreated the connections, and the new names funcitoned properly.
 
 In implementing the bonus stories, I had difficulty with getting a hand on the layout constraints. I tested a lot of different things with them, and now feel a lot more comfortable using contraints as a result.
 
-Additionally, I was unable to compile for my phone's iOS 16 on my Macbook running last year's version through normal means! I felt I should write this down for others to be aware, and to provide [a link](https://dilumdesilva.medium.com/so-xcode-doesnt-support-your-iphone-s-os-version-here-s-how-to-fix-it-c2db7fd58468) to the guide I used to add support in an unofficial way.
+Additionally, I was unable to compile for my phone's iOS 16 on my Macbook running last year's version (13, Monterey) through normal means! I felt I should write this down for others to be aware, and to provide [a link](https://dilumdesilva.medium.com/so-xcode-doesnt-support-your-iphone-s-os-version-here-s-how-to-fix-it-c2db7fd58468) to the guide I used to add support in an unofficial way.
