@@ -24,9 +24,9 @@ Please give the gif a few seconds to load; it will show up blank until then.
 
 <img src="./demo.gif" width=250><br>
 
-In order to provide the best demonstration of multiple sizes, I have included this screenshot:
+In order to provide the best demonstration of multiple sizes, I have included this screenshot (click to enlarge):
 
-<img src="./sizesdemo.png" width=250><br>
+<img src="./sizesdemo.png" width=650><br>
 
 ### Notes
 The main challange I encountered with building this app involved the fact that I renamed some of the elements after I made connection with them by control-dragging. I was able to identify them however, and simply recreated the connections, and the new names funcitoned properly.
