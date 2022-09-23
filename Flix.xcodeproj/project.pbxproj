@@ -18,6 +18,7 @@
 		C553206B28D179840063F8AB /* FlixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C553206A28D179840063F8AB /* FlixUITestsLaunchTests.swift */; };
 		C553207A28D189BF0063F8AB /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C553207928D189BF0063F8AB /* MovieCell.swift */; };
 		C553207D28D18CA80063F8AB /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = C553207C28D18CA80063F8AB /* AlamofireImage */; };
+		C55737DA28DE5CAA00E2DBBC /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55737D928DE5CAA00E2DBBC /* MovieDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		C553206828D179840063F8AB /* FlixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITests.swift; sourceTree = "<group>"; };
 		C553206A28D179840063F8AB /* FlixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C553207928D189BF0063F8AB /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		C55737D928DE5CAA00E2DBBC /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				C553205028D179840063F8AB /* Assets.xcassets */,
 				C553205228D179840063F8AB /* LaunchScreen.storyboard */,
 				C553205528D179840063F8AB /* Info.plist */,
+				C55737D928DE5CAA00E2DBBC /* MovieDetailsViewController.swift */,
 			);
 			path = Flix;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C55737DA28DE5CAA00E2DBBC /* MovieDetailsViewController.swift in Sources */,
 				C553204C28D179810063F8AB /* MoviesViewController.swift in Sources */,
 				C553204828D179810063F8AB /* AppDelegate.swift in Sources */,
 				C553207A28D189BF0063F8AB /* MovieCell.swift in Sources */,
@@ -466,7 +470,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -494,7 +498,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
