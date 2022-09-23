@@ -15,7 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-Please give the gif a few seconds to load; it will show up blank until then.
+Please give the gif up to a minute to load; it will show up blank until then.
 
 <img src="./demo2.gif" width=250><br>
 
@@ -38,7 +38,7 @@ My biggest challange with implementing Part 2 of this app was when one of the co
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-Please give the gif a few seconds to load; it will show up blank until then.
+Please give the gif up to a minute to load; it will show up blank until then.
 
 <img src="./demo.gif" width=250><br>
 
